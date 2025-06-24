@@ -20,7 +20,7 @@ const HeroSection = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://wa.me/01033717378"
+                  href="https://wa.me/201033717378"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-medical-primary text-white px-8 py-4 rounded-full hover:bg-medical-dark transition-all duration-300 transform hover:scale-105 shadow-lg font-cairo font-medium inline-flex items-center justify-center"

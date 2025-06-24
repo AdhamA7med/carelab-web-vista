@@ -55,7 +55,7 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-bold text-medical-dark mb-2 font-cairo">واتساب</h4>
                   <a
-                    href="https://wa.me/01033717378"
+                    href="https://wa.me/201033717378"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-medical-primary hover:text-medical-dark transition-colors duration-300 font-cairo text-lg font-medium"
@@ -82,7 +82,7 @@ const ContactSection = () => {
             {/* Quick Actions */}
             <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
               <a
-                href="https://wa.me/01033717378"
+                href="https://wa.me/201033717378"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 text-white py-3 px-6 rounded-lg hover:bg-green-600 transition-colors duration-300 text-center font-cairo font-medium flex items-center justify-center"

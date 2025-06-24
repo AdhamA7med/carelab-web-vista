@@ -6,7 +6,7 @@ const FloatingIcons = () => {
     <div className="fixed left-4 bottom-4 z-50 flex flex-col space-y-4">
       {/* WhatsApp */}
       <a
-        href="https://wa.me/01033717378"
+        href="https://wa.me/201033717378"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-green-500 hover:bg-green-600 text-white w-14 h-14 rounded-full flex items-center justify-center shadow-lg transform hover:scale-110 transition-all duration-300 animate-pulse"
